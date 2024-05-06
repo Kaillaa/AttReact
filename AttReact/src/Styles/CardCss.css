@@ -1,0 +1,32 @@
+.CardContainer {
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(hsl(213, 19%, 18%), hsl(200, 10%, 11%));
+    border-radius: 25px ;
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
+}
+.Circulo{
+    background-color: hsl(218, 17%, 26%);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.TextosCard{
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;
+    margin-bottom: -20px;
+}
+.TextosCard h1{
+    font-size: 25px;
+    margin-bottom: 0px;
+}

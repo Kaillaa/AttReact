@@ -1,0 +1,10 @@
+.BotaoContent{
+    background-color: hsl(25, 97%, 53%);
+    width: 350px;
+    border-radius: 40px;
+}
+
+.BotaoContent:hover{
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+}
